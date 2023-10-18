@@ -9,7 +9,6 @@
 
 	<ItemGroup>
 		<PackageReference Include="Syncfusion.Pdf.Imaging.Net.Core" Version="23.1.38" />
-		<PackageReference Include="System.Text.RegularExpressions" Version="4.3.1" />
 	</ItemGroup>
 
 </Project>
